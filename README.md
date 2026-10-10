@@ -1,18 +1,62 @@
 # 💫 About Me:
 <br>I'm a passionate Full-Stack Developer who enjoys building scalable web applications and solving real-world problems through technology. I love exploring modern frameworks, writing clean and maintainable code, and continuously learning to become a better software engineer.<br><br>- 
 
-# 🔭Projects: 
+## 🚀 Projects
+
+### 1. Offline Money Transfer
+A Spring Boot backend demonstrating offline UPI payments routed through a Bluetooth-style mesh network, exploring resilient peer-to-peer payment systems and connectivity-independent transactions.
+
+**Tech Stack:** Java, Spring Boot
+
+### 2. COOPCONNECT
+A proposed cooperative-owned digital platform connecting verified skilled workers from Labour Cooperative Societies and Federations with households, farmers, institutions, and communities.
+
+**Tech Stack:** Next.js 16, TypeScript, Tailwind CSS, Supabase
+
+### 3. ReviewFlow
+A customer feedback and review management platform that helps businesses collect genuine feedback through QR-powered experiences, AI-assisted review drafts, and actionable analytics.
+
+**Tech Stack:** TypeScript, Next.js, PostgreSQL, QR Codes, Supabase, OpenRouter
+
+### 4. AI Interview Platform — HackInMotion RICR-HIM-1124
+An end-to-end AI-powered resume analyzer and mock interview platform designed to help candidates evaluate their resumes, practice interviews, and improve their interview readiness.
+
+**Tech Stack:** React, Express.js, TypeScript, MongoDB, Cloudinary, PDFKit, OpenRouter
+
+### 5. StudyOS
+An all-in-one student productivity and learning platform designed to help students organize notes, manage tasks, plan study schedules, and access academic resources efficiently.
+
+**Tech Stack:** Full-Stack Web Development
+
+### 6. E-commerce Platform
+A production-ready, premium-looking custom e-commerce platform featuring dynamic functionality, dedicated admin and customer panels, and integrated payment processing.
+
+**Tech Stack:** Next.js 16, TypeScript, Tailwind CSS, Supabase, Supabase Auth, Razorpay Payment Gateway
+
+### 7. Gayatri Biofuels
+A premium React-powered website for a smart waste oil management platform connecting businesses with certified collectors and recyclers through technology-driven, sustainable solutions.
+
+**Tech Stack:** React, JavaScript
+
+### 8. Library Management System
+A comprehensive library management solution for managing books, members, borrowing, returns, and inventory through an organized digital workflow.
+
+**Tech Stack:** Full-Stack Web Development
+
+### 9. School Management System
+A Python-based school management application built using Object-Oriented Programming (OOP) principles to manage students, teachers, courses, and school operations.
+
+**Tech Stack:** Python, OOP, Abstract Classes, pathlib
+
+### 10. Restaurant Website
+A modern, responsive restaurant website featuring menu browsing, online reservations, and an intuitive user experience designed to make restaurant information and services easily accessible.
+
+**Tech Stack:** Web Development
+
+<br><br> 
+## My Interests
 <br>
-I'm currently working on "StudyOS", an all-in-one productivity platform that helps students manage notes, tasks, study schedules, and academic resources efficiently.<br><br>
-
-##🚀Some of my notable projects include:
-<br><br>
-- **StudyOS** – A comprehensive student productivity and learning platform.<br>
--  **AI Interview Platform** – An AI-powered mock interview platform with real-time feedback and interview simulations.<br>
-- **Restaurant Website** – A modern, responsive restaurant website featuring menu browsing, online reservations, and an intuitive user experience.<br>
--  **Library Management System** – A complete library management solution for managing books, members, borrowing, returns, and inventory.
-
-<br><br> 👯 I'm looking to collaborate on **Full-Stack Development, Backend Systems, Open Source, AI-powered applications, and innovative SaaS products.**<br><br>
+👯 I'm looking to collaborate on **Full-Stack Development, Backend Systems, Open Source, AI-powered applications, and innovative SaaS products.**<br><br>
 🤝 I'm looking for help with **System Design, Cloud Computing, DevOps, Microservices, and building scalable production-ready applications.**<br><br>
 🌱 I'm currently learning **NestJS, TypeScript, Docker, and PostgreSQL** while deepening my understanding of backend architecture and scalable software development.<br><br>
 💬 Ask me about **Java, JavaScript, TypeScript, React, Node.js, Express.js, REST APIs, MongoDB, Firebase, Git/GitHub, and Full-Stack Development.**<br><br>
